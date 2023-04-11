@@ -1,2 +1,1 @@
-# repositorio
-es un repositorio de modulo 2
+es proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computador
